@@ -1,5 +1,4 @@
 # DFI-Punks
-### Crypto punks freshly made for the DeFiChain community
 
 The NFTs for the punks are available at OpenSea (https://opensea.io/collection/dfi-punks). The first hundred punks are for sale, but the sale price is an estimate and we can arrange individually. Of course also in DFI (to avoid high fees).
 
