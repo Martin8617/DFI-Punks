@@ -1,6 +1,6 @@
 # DFI-Punks
 
-The NFTs for the punks are available at OpenSea. The first hundred punks are for sale, but the sale price is an estimate and we can arrange individually. Of course also in DFI (to avoid high fees).
+The NFTs for the punks are available at OpenSea. The first punks are for sale, but the sale price is an estimate and we can arrange individually. Of course also in DFI (to avoid high fees).
 
 > **NOTE**: Everybody who likes to have a custom-made personal DFI punk is welcome to contact me at Telegram (@Martin8617).
 
