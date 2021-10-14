@@ -14,7 +14,8 @@ Some example how they can look:
 ![punks-Cake-banner](https://user-images.githubusercontent.com/79512509/137070857-35e336a9-c38c-4686-a128-67f16b594215.png)
 
 The compilations show the available attributes like hair, skin, ears, mouth,  eyes and accessories. Skin color is black, dark, normal (shown) and white. Don't hesitate to ask me for your special wishes:
-![punks-basis@20x](https://user-images.githubusercontent.com/79512509/136959073-a5ce79a5-44a8-437e-87d2-44d439ab3f70.png)
+
+![pixil-frame-0](https://user-images.githubusercontent.com/79512509/137271479-f7958590-4de3-43b9-9a04-8f0868895aff.png)
 
 From the compilation above you find the written single attributes in the table below. Now you can combine the attributes for your favorite punk. Let me know which combination you like. 
 
