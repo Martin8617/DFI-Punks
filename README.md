@@ -13,9 +13,10 @@ Some example how they can look:
 ![punks-BTC-banner](https://user-images.githubusercontent.com/79512509/137070841-5e4d3855-359f-4084-aa82-df259a9615ff.png)
 ![punks-Cake-banner](https://user-images.githubusercontent.com/79512509/137070857-35e336a9-c38c-4686-a128-67f16b594215.png)
 
-The compilations show the available attributes like hair, eyes, skin, ears, mouth and accessories. Skin color is black, dark, normal (shown) and white. Don't hesitate to ask me for your special wishes:
+The compilations show the available attributes like hair, skin, ears, mouth,  eyes and accessories. Skin color is black, dark, normal (shown) and white. Don't hesitate to ask me for your special wishes:
 ![punks-basis@20x](https://user-images.githubusercontent.com/79512509/136959073-a5ce79a5-44a8-437e-87d2-44d439ab3f70.png)
 
+From the compilation above you find the written single attributes in the table below. Now you can combine the attributes for your favorite punk. Let me know which combination you like. 
 
 No|Type|Hair|Face| Accessoirs|Hat|Eyes
 --|----|----|----|-----------|---|----
