@@ -9,6 +9,9 @@ The punks have both the collected attributes of the crypto punks and new ones. G
 Some example how they can look:
 
 ![punks-DFI-banner](https://user-images.githubusercontent.com/79512509/137071008-1d959c95-6da2-4073-9fce-bdfd7ff98b55.png)
+
+Coming soon:
+
 ![punks-DFX-banner](https://user-images.githubusercontent.com/79512509/137070871-0d4e1e93-3bc8-42d2-813f-51f7ee1ad1de.png)
 ![punks-BTC-banner](https://user-images.githubusercontent.com/79512509/137070841-5e4d3855-359f-4084-aa82-df259a9615ff.png)
 ![punks-Cake-banner](https://user-images.githubusercontent.com/79512509/137070857-35e336a9-c38c-4686-a128-67f16b594215.png)
