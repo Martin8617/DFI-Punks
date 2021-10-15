@@ -1,18 +1,16 @@
 # DFI-Punks
 
-The NFTs for the punks are available at OpenSea. The first punks are for sale, but the sale price is an estimate and we can arrange individually. Of course also in DFI (to avoid high fees).
+The NFTs for the punks are available at OpenSea. The first punks are for sale, but the sale price is an estimate and we can arrange individually in DFI (to avoid high fees).
 
 > **NOTE**: Everybody who likes to have a custom-made personal DFI punk is welcome to contact me at Telegram (@Martin8617).
 
 The punks have both the collected attributes of the crypto punks and new ones. Given are the cap and the background. Main difference is the cap with either DFI logo or DFX, BTC, Cake, ... 
 
-Some example how they can look:
-
-(https://opensea.io/collection/dfi-punks)
+Some example how they can look and find more at [OpenSea](https://opensea.io/collection/dfi-punks):
 
 ![punks-DFI-banner](https://user-images.githubusercontent.com/79512509/137071008-1d959c95-6da2-4073-9fce-bdfd7ff98b55.png)
 
-(https://opensea.io/collection/dfx-punks)
+Also some DFX-Punks are available at [OpenSea](https://opensea.io/collection/dfx-punks):
 
 ![punks-DFX-banner](https://user-images.githubusercontent.com/79512509/137070871-0d4e1e93-3bc8-42d2-813f-51f7ee1ad1de.png)
 
