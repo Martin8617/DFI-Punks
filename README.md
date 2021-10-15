@@ -1,22 +1,25 @@
 # DFI-Punks
 
-The NFTs for the punks are available at OpenSea. The first punks are for sale, but the sale price is an estimate and we can arrange individually in DFI (to avoid high fees).
+The first round of punks are for sale on OpenSea as NFTs. The selling price is an estimate and we can agree individually in DFI (to avoid high fees).
 
-> **NOTE**: Everybody who likes to have a custom-made personal DFI punk is welcome to contact me at Telegram (@Martin8617).
+> **NOTE**: Everybody who likes to have a custom-made personal punk is welcome to contact me at Telegram (@Martin8617).
 
 The punks have both the collected attributes of the crypto punks and new ones. Given are the cap and the background. Main difference is the cap with either DFI logo or DFX, BTC, Cake, ... 
 
-Some example how they can look and find more at [OpenSea](https://opensea.io/collection/dfi-punks):
+Some examples of how you can find them on [OpenSea](https://opensea.io/collection/dfi-punks):
 
 ![punks-DFI-banner](https://user-images.githubusercontent.com/79512509/137071008-1d959c95-6da2-4073-9fce-bdfd7ff98b55.png)
 
-Also some DFX-Punks are available at [OpenSea](https://opensea.io/collection/dfx-punks):
+Also DFX-Punks are available at [OpenSea](https://opensea.io/collection/dfx-punks):
 
 ![punks-DFX-banner](https://user-images.githubusercontent.com/79512509/137070871-0d4e1e93-3bc8-42d2-813f-51f7ee1ad1de.png)
 
-Coming soon:
+Why - why not BTC-Punks at [OpenSea](https://opensea.io/collection/btc-punks-1):
 
 ![punks-BTC-banner](https://user-images.githubusercontent.com/79512509/137070841-5e4d3855-359f-4084-aa82-df259a9615ff.png)
+
+And finally Cake-Punks too -> [OpenSea](https://opensea.io/collection/cake-punks):
+
 ![punks-Cake-banner](https://user-images.githubusercontent.com/79512509/137070857-35e336a9-c38c-4686-a128-67f16b594215.png)
 
 The compilations show the available attributes like hair, skin, ears, mouth,  eyes and accessories. Skin color is black, dark, normal (shown) and white. Don't hesitate to ask me for your special wishes:
