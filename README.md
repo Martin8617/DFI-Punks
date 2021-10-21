@@ -1,8 +1,8 @@
-# DFI-Punks
+# ![div-Punks-48x48](https://user-images.githubusercontent.com/79512509/138335521-09843b23-4704-450e-9c9f-f1b43b9cab9c.gif) DFI-Punks
 
 The first round of punks are for sale on OpenSea as NFTs. The selling price is an estimate and we can agree individually in DFI (to avoid high fees).
 
-> **NOTE**: Everybody who likes to have a custom-made personal punk is welcome to contact me at Telegram (@Martin8617).
+> **NOTE**: Everybody who likes to have a custom-made personal punk, looking like you, is welcome to contact me at Telegram (@Martin8617).
 
 The punks have both the collected attributes of the crypto punks and new ones. Given are the cap and the background. Main difference is the cap with either DFI logo or DFX, BTC, Cake, ... 
 
