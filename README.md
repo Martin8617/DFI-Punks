@@ -1,4 +1,4 @@
-# ![div-Punks-48x48](https://user-images.githubusercontent.com/79512509/138335521-09843b23-4704-450e-9c9f-f1b43b9cab9c.gif) DFI-Punks
+# ![div5-Punks-48x48](https://user-images.githubusercontent.com/79512509/139420976-ffaa1d61-47b6-48f0-9526-6bfc77be3b93.gif) DFI-Punks and much more...
 
 The first round of punks are for sale on OpenSea as NFTs. The selling price is an estimate and we can agree individually in DFI (to avoid high fees).
 
@@ -21,6 +21,13 @@ Why - why not BTC-Punks on [OpenSea](https://opensea.io/collection/btc-punks-1):
 And finally Cake-Punks too on [OpenSea](https://opensea.io/collection/cake-punks):
 
 ![punks-Cake-banner](https://user-images.githubusercontent.com/79512509/137070857-35e336a9-c38c-4686-a128-67f16b594215.png)
+
+### How to get a Punk
+
+If you are new with NFT I recommend to read the [guideline at the DeFiChain-Wiki](https://defichain-wiki.com/wiki/Punks.
+
+
+### Build your own Punk
 
 The compilations show the available attributes like hair, skin, ears, mouth,  eyes and accessories. Skin color is black, dark, normal (shown) and white. Don't hesitate to ask me for your special wishes:
 
