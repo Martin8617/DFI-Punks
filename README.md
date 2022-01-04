@@ -18,8 +18,12 @@ Why - why not BTC-Punks on [OpenSea](https://opensea.io/collection/btc-punks-1):
 Famous Cake-Punks as well on [OpenSea](https://opensea.io/collection/cake-punks):
 ![punks-Cake-banner](https://user-images.githubusercontent.com/79512509/137070857-35e336a9-c38c-4686-a128-67f16b594215.png)
 
-And finally saiive.live-Punks too on [OpenSea](https://opensea.io/collection/saiive-punks):
+Favorite saiive.live-Punks on [OpenSea](https://opensea.io/collection/saiive-punks):
 ![punks-Saiive-banner@4x](https://user-images.githubusercontent.com/79512509/140693440-0c327c20-a0bb-41b6-b86d-871ffc49f11e.png)
+
+And finally ADA-&Stakit-Punks on [cnft](https://cnft.io/marketplace?st=8a442d0a944bf213a6a45b6168d3584f21a1ba3f873cda504e96227a):
+<img width="700" alt="ADA-Banner@600x75" src="https://user-images.githubusercontent.com/79512509/148059348-a57ee5e3-a07a-4022-ad6b-c90a0459e700.png">
+
 
 
 ### How to get a Punk
