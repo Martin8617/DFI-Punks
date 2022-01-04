@@ -6,19 +6,19 @@ The first round of punks are for sale on OpenSea as NFTs. The selling price is a
 
 The punks have both the collected attributes of the crypto punks and new ones. Given are the cap and the background. Main difference is the cap with either DFI logo or DFX, BTC, Cake, ... 
 
-Some examples of how you can find them on [OpenSea](https://opensea.io/collection/dfi-punks):
+Some examples of how you can find them on [OpenSea](https://opensea.io/collection/dfi-punks):     					
 ![punks-DFI-banner](https://user-images.githubusercontent.com/79512509/137071008-1d959c95-6da2-4073-9fce-bdfd7ff98b55.png)
 
-Also DFX-Punks are available on [OpenSea](https://opensea.io/collection/dfx-punks):
+Also DFX-Punks are available on [OpenSea](https://opensea.io/collection/dfx-punks):												
 ![punks-DFX-banner](https://user-images.githubusercontent.com/79512509/137070871-0d4e1e93-3bc8-42d2-813f-51f7ee1ad1de.png)
 
-Why - why not BTC-Punks on [OpenSea](https://opensea.io/collection/btc-punks-1):
+Why - why not BTC-Punks on [OpenSea](https://opensea.io/collection/btc-punks-1):											
 ![punks-BTC-banner](https://user-images.githubusercontent.com/79512509/137070841-5e4d3855-359f-4084-aa82-df259a9615ff.png)
 
-Famous Cake-Punks as well on [OpenSea](https://opensea.io/collection/cake-punks):
+Famous Cake-Punks as well on [OpenSea](https://opensea.io/collection/cake-punks):											
 ![punks-Cake-banner](https://user-images.githubusercontent.com/79512509/137070857-35e336a9-c38c-4686-a128-67f16b594215.png)
 
-Favorite saiive.live-Punks on [OpenSea](https://opensea.io/collection/saiive-punks):
+Favorite saiive.live-Punks on [OpenSea](https://opensea.io/collection/saiive-punks):										
 ![punks-Saiive-banner@4x](https://user-images.githubusercontent.com/79512509/140693440-0c327c20-a0bb-41b6-b86d-871ffc49f11e.png)
 
 And finally ADA-&Stakit-Punks on [cnft](https://cnft.io/marketplace?st=8a442d0a944bf213a6a45b6168d3584f21a1ba3f873cda504e96227a):
