@@ -46,8 +46,8 @@ The compilations show the available attributes like hair, skin, ears, mouth,  ey
 
 From the compilation above you find the written single attributes in the table below. Now you can combine the attributes for your favorite punk. Let me know which combination you like. 
 
-No|Type|Hair|Face| Accessoirs|Hat|Eyes
---|----|----|----|-----------|---|----
+No|Type  |Hair  |Face  | Accessoirs|Hat   |Eyes  
+--|------|------|------|-----------|------|------
 1|Male 3|Clown Hair Green|||Cap DFI|
 2|Male 3|Crazy Hair|||Cap DFI|
 3|Male 3|Frumpy Hair|||Cap DFI|
