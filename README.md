@@ -1,53 +1,90 @@
-# ![div5-Punks-48x48](https://user-images.githubusercontent.com/79512509/139420976-ffaa1d61-47b6-48f0-9526-6bfc77be3b93.gif) DFI-Punks and much more...
+# ![div5-Punks-48x48](https://user-images.githubusercontent.com/79512509/139420976-ffaa1d61-47b6-48f0-9526-6bfc77be3b93.gif) DFI-Punks, Avatars und noch mehr...
 
-The first round of punks are for sale on OpenSea as NFTs. The selling price is an estimate and we can agree individually in DFI (to avoid high fees).
+#### [I am Swiss and therefore the main page is in German. But no problem to read everything in English click on this text and you will be redirected to the English page.](README-en.md)
 
-> **NOTE**: Everybody who likes to have a custom-made personal punk, looking like you, is welcome to contact me at Telegram (@Martin8617).
+Die erste Runde meiner Profilbilder wurde im Oktober 2021 auf OpenSea als NFTs auf der Polygon-Blockchain veröffentlicht. Der Verkaufspreis in wETH ist ein Angebot für den Sofortkauf; oder aber wir können den Preis individuell in DFI vereinbaren.
 
-The punks have both the collected attributes of the crypto punks and new ones. Given are the cap and the background. Main difference is the cap with either DFI logo or DFX, BTC, Cake, ... 
+Die Avatare haben Attribute wie die der Krypto-Punks und Zusätzliche um möglichst "menschenähnliche" Profile zu kreieren. Für einen hohen Widererkennungswert in den Social Medien sind die Kappe und der Hintergrund jeweils gleich. Es gibt mehrere "Familien" mit entweder DFI-, DFX-, BTC-, Cake-, Saiive- oder ADA- und Stakit-Logo-Cap.
 
-Some examples of how you can find them on [OpenSea](https://opensea.io/collection/dfi-punks):
+<details><summary><b>Für NFT-Neulinge ein Leitfaden für den Einstieg</b> (zum Ausklappen)</summary>
+       
+## Einleitung
+Die NFTs haben mit Punks und Jellyfishs in der DeFiChain-Community Einzug gehalten. Zahlreiche Telegram- und Twitter-User verwenden inzwischen solch ein NFT z.B. als Profilbild. Diese Seite dient als Leitfaden um die Basics zu diesen NFT-Bildern zu vermitteln:
+
+#### Was ist ein NFT?
+- NFT steht für "Non Fungiblen Token", was bedeutet, dass er weder ersetzt noch ausgetauscht werden kann, da er einzigartige Eigenschaften hat.
+- Es ist eine Besitzurkunde für eine digitale Datei.
+
+#### Wie unterscheidet sich ein NFT von einer Kryptowährung? 
+- Geld und Kryptowährungen sind "fungibel", das heisst, sie können gehandelt oder gegeneinander getauscht werden. Sie haben auch den gleichen Wert - ein Dollar ist immer einen anderen Dollar wert; ein Bitcoin ist immer gleich einem anderen Bitcoin. Die Fungibilität von Kryptowährungen macht sie zu einem vertrauenswürdigen Mittel für die Durchführung von Transaktionen auf der Blockchain.
+- NFTs sind anders. Jeder Punk hat eine eigene digitale Signatur, die es unmöglich macht, dass NFTs gegeneinander ausgetauscht werden oder gleichwertig sind (daher sind sie nicht fungibel).
+
+#### Wo und wie werden sie verwaltet? 
+- Die meisten NFTs befinden sich auf der Blockchain von Ethereum. NFTs sind individuelle Token, in denen Informationen gespeichert sind. Da sie einen Wert haben, der in erster Linie durch den Markt und die Nachfrage bestimmt wird, können sie wie andere physische Kunstwerke gekauft und verkauft werden.
+
+#### Wofür werden NFTs verwendet? 
+- Die Blockchain-Technologie und NFTs bieten Künstlern und Urhebern von Inhalten eine einzigartige Möglichkeit, ihre Produkte zu vermarkten. So sind Künstler zum Beispiel nicht mehr auf Galerien oder Auktionshäuser angewiesen, um ihre Kunst zu verkaufen.
+- Die einzigartigen Daten von NFTs machen es einfach, ihren Besitz und die Übertragung von Token zwischen Besitzern zu überprüfen und zu validieren.
+
+## NFT auf OpenSea 
+Die Hilfeseite von OpenSea befindet sich auf: https://support.opensea.io/hc/en-us, leider nur auf Englisch. 
+
+### Account erstellen 
+- Mit [Getting Started](https://support.opensea.io/hc/en-us/sections/360011539774-Getting-Started) lernst du verschiedenen Funktionen und Möglichkeiten auf OpenSea kennen. Die drei notwendigen Schritte zur Erstellung deines Accounts sind unten folgend als Link aufgeführt:
+- [What crypto wallets can I use with OpenSea](https://support.opensea.io/hc/en-us/articles/1500007978402-What-crypto-wallets-can-I-use-with-OpenSea-) Da die Rechte an den NFTs auf der ETH-Blockchain gespeichert werden, benötigt es auf OpenSea ein Wallet um NFTs kaufen und verkaufen zu können. Empfohlen wird das Metamask-Wallet als Browser-Erweiterung. Leider gibt es die Metamask-Erweiterung nicht für den Safari-Browser. Safari-Nutzer können das Coinbase-Wallet benutzen.
+- [How do I create an OpenSea account?](https://support.opensea.io/hc/en-us/articles/360061676254-How-do-I-create-an-OpenSea-account-) Kurzum, du brauchst ein Wallet (siehe Punkt 1. oben) mit einer Ethereum-Adresse und ETH drauf und dann ist der OpenSea-Account im Hand-um-drehen erstellt.
+- [How do I transfer ETH from Ethereum to Polygon?](https://support.opensea.io/hc/en-us/articles/1500012881642) Wenn du deinen Account mit verknüpftem Wallet hast, folgt der fast wichtigste Punkt. Da die Punks auf der Polygon-Blockchain verankert sind, können die Gebühren (gas-fee) von der ETH-Blockchain gespart werden. Dies funktioniert aber nur, wenn die ETH zu wETH (wrapped-ETH) auf die Polygon-Blockchain gewechselt werden.
+
+### Mit DFI bezahlen 
+Why - why not? Auf OpenSea kann nicht direkt mit DFI bezahlt werde, aber auf Telegram kannst du [mich](https://t.me/Martin8617) anschreiben und mit mir den Kauf in DFI manuell abwickeln.
+  
+  </details>
+
+__________________________
+## 👉 Wie wird ein Avatar hergestellt?
+Ein Avatar besteht aus mehreren übereinander gelegten Bildern. Ursprünglich mit 24x24 Pixel - mittlerweile 20x grösser mit 480x480 Pixel. Immer die oberste "Schicht" ist sichtbar und verdeckt die darunterliegenden Pixel:
+Hintergrund: |Gesicht: w/m, hell/dunkel |Haare: |Gesicht: Bart, Lippenstift |Augen: Brille, Lidschatten |Kappe: |Accessoires: Zigarette, Ohrring |...und fertig ist der DFi-Opa
+------------|------------|------------|------------|------------|------------|------------|------------
+<img width="100" alt="bgdfi" src="https://user-images.githubusercontent.com/79512509/179718339-a65bf0b9-fd44-41c4-ac24-167838eefe88.png"> |<img width="100" alt="male3" src="https://user-images.githubusercontent.com/79512509/179719163-42ea4ee3-6303-4af9-916d-7e40b28cdfce.png"> |<img width="100" alt="normalhairbrown" src="https://user-images.githubusercontent.com/79512509/179720389-099eeb23-ca71-4c52-b8e6-bd9dc1c7731b.png"> |<img width="100" alt="bigbeard" src="https://user-images.githubusercontent.com/79512509/179720780-2057bccf-89c7-4a87-83cd-28a5a22a1496.png"> |<img width="100" alt="regularshades" src="https://user-images.githubusercontent.com/79512509/179721307-9164e8ca-7d81-4909-8177-755f8a6246e9.png"> |<img width="100" alt="capdfi" src="https://user-images.githubusercontent.com/79512509/179721452-eb595351-b361-416f-9a78-02f256e6c1c1.png"> |<img width="100" alt="pipe" src="https://user-images.githubusercontent.com/79512509/179721747-b13f08bc-76c6-410e-93d9-2840d24a6433.png"> |<img width="250" alt="dfi-punk220" src="https://user-images.githubusercontent.com/79512509/179723293-0eec9fe6-39c3-41ca-9577-599870ba4b5c.png">
+
+> **NOTE**: Wenn du deinen persönlichen Avatar haben willst, der dir ähnlich sieht, dann kontaktiere mich auf Telegram (@Martin8617) und wir schauen wie wir mit den vorhandenen Attributen deinem "ICH" möglichst nahe kommen.
+
+
+## 👉 Wo sind die kreierten NFTs zu finden?
+Zum Beispiel DFI-Punks auf OpenSea (https://opensea.io/collection/dfi-punks):
 
 [![punks-DFI-banner](https://user-images.githubusercontent.com/79512509/137071008-1d959c95-6da2-4073-9fce-bdfd7ff98b55.png)](https://opensea.io/collection/dfi-punks)
 
-Also DFX-Punks are available on [OpenSea](https://opensea.io/collection/dfx-punks):
+Auch DFX-Punks sind zu haben auf OpenSea (https://opensea.io/collection/dfx-punks):
 
 [![punks-DFX-banner](https://user-images.githubusercontent.com/79512509/137070871-0d4e1e93-3bc8-42d2-813f-51f7ee1ad1de.png)](https://opensea.io/collection/dfx-punks)
 
-Why - why not BTC-Punks on [OpenSea](https://opensea.io/collection/btc-punks-1):
+Warum - warum nicht BTC-Punks auf OpenSea (https://opensea.io/collection/btc-punks-1):
 
 [![punks-BTC-banner](https://user-images.githubusercontent.com/79512509/137070841-5e4d3855-359f-4084-aa82-df259a9615ff.png)](https://opensea.io/collection/btc-punks-1)
 
-Famous Cake-Punks as well on [OpenSea](https://opensea.io/collection/cake-punks):
+Die bekannten Cake-Punks sind auch auf OpenSea (https://opensea.io/collection/cake-punks):
 
 [![punks-Cake-banner](https://user-images.githubusercontent.com/79512509/137070857-35e336a9-c38c-4686-a128-67f16b594215.png)](https://opensea.io/collection/cake-punks)
 
-Favorite saiive.live-Punks on [OpenSea](https://opensea.io/collection/saiive-punks):
+Die beliebten saiive.live-Punks auf OpenSea (https://opensea.io/collection/saiive-punks):
 
 [![punks-Saiive-banner@4x](https://user-images.githubusercontent.com/79512509/140693440-0c327c20-a0bb-41b6-b86d-871ffc49f11e.png)](https://opensea.io/collection/saiive-punks)
 
-And finally ADA-&Stakit-Punks on [cnft](https://cnft.io/marketplace?st=8a442d0a944bf213a6a45b6168d3584f21a1ba3f873cda504e96227a):
+Und schlussendlich die ADA-&Stakit-Punks auf cnft (https://cnft.io/project/stakit-punks):
 
-[<img width="700" alt="ADA-Banner@600x75" src="https://user-images.githubusercontent.com/79512509/148059348-a57ee5e3-a07a-4022-ad6b-c90a0459e700.png">](https://cnft.io/marketplace?st=8a442d0a944bf213a6a45b6168d3584f21a1ba3f873cda504e96227a)
-
-
-
-### How to get a Punk
-
-- If you are new with NFT I recommend to read the [guideline at the DeFiChain-Wiki](https://defichain-wiki.com/wiki/Punks).
-- Auch in Deutsch für NFT-Neulinge der [Leitfaden auf der Defichain-Wiki](https://defichain-wiki.com/wiki/DFI-Punks).
+[<img width="700" alt="ADA-Banner@600x75" src="https://user-images.githubusercontent.com/79512509/148059348-a57ee5e3-a07a-4022-ad6b-c90a0459e700.png">](https://cnft.io/project/stakit-punks)
 
 
-### Build your own Punk
-
-The compilations show the available attributes like hair, skin, ears, mouth,  eyes and accessories. Skin color is black, dark, normal (shown) and white. Don't hesitate to ask me for your special wishes:
+## 👉 Welche Attribute sind vorhanden?
+Die Zusammenstellung zeigen die verfügbaren Attribute wie Haare, Haut, Ohren, Mund, Augen und Accessoires. Die Hautfarbe ist schwarz, dunkel, normal (abgebildet) und weiß. Zögere nicht, mich für deine speziellen Wünsche zu fragen. Die Attribute werden immer mehr und vielfältiger.
 
 ![pixil-frame-0](https://user-images.githubusercontent.com/79512509/137271479-f7958590-4de3-43b9-9a04-8f0868895aff.png)
 
-From the compilation above you find the written single attributes in the table below. Now you can combine the attributes for your favorite punk. Let me know which combination you like. 
+Aus der obigen Zusammenstellung findest du die geschriebenen Einzelattribute in der Tabelle unten. Nun kannst du die Attribute für deinen Avatar kombinieren. Lasse  mich wissen, welche Kombination dir gefällt. 
 
-No|Type  |Hair  |Face  | Accessoirs|Hat   |Eyes  
---|------|------|------|-----------|------|------
+Nr|Typ   |Haare |Gesicht | Accessoirs|Hut   |Augen  
+--|------|------|--------|-----------|------|------
 1|Male 3|Clown Hair Green|||Cap DFI|
 2|Male 3|Crazy Hair|||Cap DFI|
 3|Male 3|Frumpy Hair|||Cap DFI|
@@ -153,3 +190,4 @@ No|Type  |Hair  |Face  | Accessoirs|Hat   |Eyes
 103|Female 3|||Choker|Cap DFI|
 104|Female 3|||Gold Chain|Cap DFI|
 105|Female 3|||Silver Chain|Cap DFI|
+
