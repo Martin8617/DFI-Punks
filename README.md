@@ -77,11 +77,11 @@ Und schlussendlich die ADA-&Stakit-Punks auf cnft (https://cnft.io/project/staki
 
 
 ## 👉 Welche Attribute sind vorhanden?
-Die Zusammenstellung zeigen die verfügbaren Attribute wie Haare, Haut, Ohren, Mund, Augen und Accessoires. Die Hautfarbe ist schwarz, dunkel, normal (abgebildet) und weiß. Zögere nicht, mich für deine speziellen Wünsche zu fragen. Die Attribute werden immer mehr und vielfältiger.
+Die Zusammenstellung zeigt die verfügbaren Attribute wie Haare, Haut, Ohren, Mund, Augen und Accessoires. Die Hautfarbe ist schwarz, dunkel, normal (abgebildet) und weiß. Zögere nicht, mich für deine speziellen Wünsche zu fragen. Die Attribute werden immer mehr und vielfältiger.
 
 ![pixil-frame-0](https://user-images.githubusercontent.com/79512509/137271479-f7958590-4de3-43b9-9a04-8f0868895aff.png)
 
-Aus der obigen Zusammenstellung findest du die geschriebenen Einzelattribute in der Tabelle unten. Nun kannst du die Attribute für deinen Avatar kombinieren. Lasse  mich wissen, welche Kombination dir gefällt. 
+Aus der obigen Zusammenstellung findest du die geschriebenen Einzelattribute in der Tabelle unten. Nun kannst du die Attribute für deinen Avatar kombinieren. Lasse mich wissen, welche Kombination dir gefällt. 
 
 Nr|Typ   |Haare |Gesicht | Accessoirs|Hut   |Augen  
 --|------|------|--------|-----------|------|------
